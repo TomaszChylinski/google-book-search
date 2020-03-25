@@ -32,10 +32,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jcorteza/react-google-book-search.git"
+    "url": "https://github.com/TomaszChylinski/google-book-search.git"
   },
-  "bugs": {
-    "url": "https://github.com/jcorteza/react-google-book-search/issues"
-  },
-  "homepage": "https://github.com/jcorteza/react-google-book-search#readme"
+
+  "homepage": "https://tomaszchylinski.github.io/google-book-search/"
 }
